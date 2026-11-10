@@ -1,0 +1,59 @@
+% cvstyle.sty — mise en page commune à toutes les versions du CV
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{cvstyle}
+
+\RequirePackage[T1]{fontenc}
+\RequirePackage[utf8]{inputenc}
+\RequirePackage{lmodern}
+\RequirePackage[a4paper,margin=1.6cm,top=1.3cm,bottom=1.3cm]{geometry}
+\RequirePackage{enumitem}
+\RequirePackage{titlesec}
+\RequirePackage{xcolor}
+\RequirePackage{tabularx}
+\RequirePackage[hidelinks]{hyperref}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\linespread{1.03}
+
+% ---------- Versions -------------------------------------------------------
+% Dans le .tex principal : \financetrue ou \defensetrue avant \begin{document}
+\newif\iffinance
+\newif\ifdefense
+\newcommand{\pourfinance}[1]{\iffinance#1\fi}
+\newcommand{\pourdefense}[1]{\ifdefense#1\fi}
+
+% ---------- Champs à remplir ------------------------------------------------
+% \todo{...} s'affiche en rouge : il ne doit plus en rester avant l'envoi.
+% (build.sh le signale.)
+\newcommand{\todo}[1]{\textcolor{red}{[#1]}}
+
+% ---------- Couleurs et titres de section -----------------------------------
+\definecolor{accent}{HTML}{1F3A5F}
+\titleformat{\section}{\large\bfseries\scshape\color{accent}}{}{0pt}{}[\vspace{-0.6ex}\color{accent}\titlerule]
+\titlespacing*{\section}{0pt}{1.6ex}{1ex}
+
+% ---------- En-tête ---------------------------------------------------------
+% \entete{Nom}{ligne de contact}{ligne d'accroche (peut être vide)}
+\newcommand{\entete}[3]{%
+  \begin{center}
+    {\LARGE\bfseries #1}\\[0.6ex]
+    {\small #2}%
+    \if\relax\detokenize{#3}\relax\else\\[0.5ex]{\small\itshape #3}\fi
+  \end{center}\vspace{-1ex}}
+
+% ---------- Entrées ---------------------------------------------------------
+% \entree{Organisation}{Dates}{Rôle / diplôme}{Lieu}
+\newcommand{\entree}[4]{%
+  \begin{tabularx}{\linewidth}{@{}X r@{}}
+    \textbf{#1} & #2 \\
+    \textit{#3} & \textit{#4}
+  \end{tabularx}\par\vspace{-0.3ex}}
+
+% Puces compactes
+\newenvironment{points}
+  {\begin{itemize}[leftmargin=1.2em,itemsep=0.1ex,topsep=0.2ex,parsep=0pt,label=\textbullet]\small}
+  {\end{itemize}\vspace{0.6ex}}
+
+% Ligne "Catégorie : contenu"
+\newcommand{\ligne}[2]{\textbf{#1 :} #2\par\vspace{0.3ex}}

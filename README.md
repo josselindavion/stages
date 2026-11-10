@@ -16,7 +16,7 @@ candidatures.csv   une ligne par candidature (pipeline)
 contacts.csv       recruteurs, alumni, profs, référents
 deadlines.md       échéances datées + administratif (césure, conventions)
 prep/              prépa entretiens (quant, technique défense)
-cv/                versions de CV et lettres
+cv/                CV en LaTeX (finance FR/EN, défense FR) + lettres — voir cv/README.md
 scripts/status.py  vue rapide : pipeline + deadlines proches
 ```
 
