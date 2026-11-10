@@ -1,0 +1,24 @@
+id,boite,secteur,poste,ville,ouverture,deadline,statut,date_envoi,contact,nationalite,lien,notes
+F01,BNP Paribas CIB,finance,Stage césure quant / strats,Paris,,,cible,,,aucune,https://group.bnpparibas,Desks quant et Global Markets
+F02,Société Générale CIB,finance,Stage césure quant / structuration,Paris,,,cible,,,aucune,https://www.societegenerale.com,
+F03,Natixis CIB,finance,Stage césure quant,Paris,,,cible,,,aucune,https://www.natixis.com,
+F04,Crédit Agricole CIB,finance,Stage césure quant / risque,Paris,,,cible,,,aucune,https://www.ca-cib.com,
+F05,CFM (Capital Fund Management),finance,Stage recherche quant,Paris,,,cible,,,aucune,https://www.cfm.com,Fonds quant très orienté recherche
+F06,Squarepoint Capital,finance,Quant research / dev intern,Paris / Londres,,,cible,,,aucune,https://www.squarepoint-capital.com,
+F07,Qube Research & Technologies,finance,Quant research intern,Paris / Londres,,,cible,,,aucune,https://www.qube-rt.com,
+F08,Jane Street,finance,Quant trader / researcher intern,Londres,,,cible,,,aucune,https://www.janestreet.com,Recrute tôt ; process très probas
+F09,Optiver,finance,Quant / trading intern,Amsterdam,,,cible,,,aucune,https://optiver.com,
+F10,IMC Trading,finance,Quant / trading intern,Amsterdam,,,cible,,,aucune,https://www.imc.com,
+F11,Citadel / Citadel Securities,finance,Quant research intern,Londres / Paris,,,cible,,,aucune,https://www.citadel.com,
+F12,UBS,finance,Quant / risk intern,Zurich,,,cible,,,aucune,https://www.ubs.com,Avantage : déjà sur place à Zurich
+F13,Swiss Re,finance,Quant / data science intern,Zurich,,,cible,,,aucune,https://www.swissre.com,Assurance / réassurance quant
+D01,Thales,defense,Stage ingé (systèmes / défense),France,,,cible,,,UE?,https://www.thalesgroup.com,Vérifier exigence nationalité par offre
+D02,Safran,defense,Stage ingé (propulsion / électronique défense),France,,,cible,,,UE?,https://www.safran-group.com,
+D03,MBDA,defense,Stage ingé (missiles / systèmes),France,,,cible,,,FR?,https://www.mbda-systems.com,Habilitation probable
+D04,Naval Group,defense,Stage ingé (naval),France,,,cible,,,FR?,https://www.naval-group.com,Habilitation probable
+D05,Dassault Aviation,defense,Stage ingé (aéro),France,,,cible,,,FR?,https://www.dassault-aviation.com,
+D06,KNDS France,defense,Stage ingé (terrestre),France,,,cible,,,FR?,https://www.knds.com,
+D07,ArianeGroup,defense,Stage ingé (lanceurs / dissuasion),France,,,cible,,,FR?,https://www.ariane.group,
+D08,Airbus Defence and Space,defense,Stage ingé (spatial / défense),France / Allemagne,,,cible,,,UE?,https://www.airbus.com,
+D09,DGA,defense,Stage ingé (étatique),France,,,cible,,,FR,https://www.defense.gouv.fr/dga,Lien possible avec le corps de l'armement
+D10,CEA DAM,defense,Stage ingé / recherche,France,,,cible,,,FR,https://www-dam.cea.fr,Habilitation requise
