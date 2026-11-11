@@ -11,6 +11,7 @@ cv_finance_en.tex  Londres / Amsterdam / Zurich / fonds
 cv_defense_fr.tex  défense
 pdf/               PDF compilés (ceux qu'on envoie)
 lettres/           une lettre par candidature, nommée par id (ex. F05_CFM.md)
+retours/           revues du CV (recherche + relectures simulées) et plans d'action
 ```
 
 ## Modifier
