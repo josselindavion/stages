@@ -6,8 +6,11 @@ jusqu'au 31/01/2027). Toujours répondre en **français**, en tutoyant.
 - **Disponibilité (15/11/2026) :** de juin 2027 à août 2028 (année de césure), retour aux Mines en septembre 2028.
   Idéalement **deux stages d'environ 6 mois** : finance d'abord, défense ensuite (voir `README.md`).
 - **Cible finance (précisée le 15/11, après l'appel avec Thomas Carrega, SG CIB, Cross-Asset Solutions) :**
-  la finance de marché là où les maths s'appliquent concrètement (salle de marché, structuration de dérivés,
-  trading, strats de desk) ; **pas de recherche quant très théorique**. Conseils reçus : candidater dès maintenant,
+  la finance de marché là où les maths s'appliquent concrètement, **dans trois familles de métiers qui l'intéressent
+  toutes** (décision du 15/11, détail dans `README.md`) : (1) activités de marché en banque (structuration, trading,
+  strats), priorité ; (2) recherche quant en fonds (statistiques et ML appliqués, pas des maths théoriques) ;
+  (3) market makers, si l'offre dure environ 6 mois. Pas de recherche quant très théorique (développement de modèles
+  de pricing avancés). Conseils reçus : candidater dès maintenant,
   connaître les métiers (sell side, buy side, structureur, gérant…) et leur niveau de maths, et se différencier
   par la culture financière et l'actualité ; chercher via les sites des banques et le réseau des anciens des Mines.
 
