@@ -1,0 +1,30 @@
+# Contexte pour Claude
+
+Ce dépôt est l'espace de **recherche de stages** de Josselin (Mines de Paris, en stage de recherche à l'ETH Zurich
+jusqu'au 31/01/2027). Toujours répondre en **français**, en tutoyant.
+
+- **Disponibilité (15/11/2026) :** de juin 2027 à août 2028 (année de césure), retour aux Mines en septembre 2028.
+  Idéalement **deux stages d'environ 6 mois** : finance d'abord, défense ensuite (voir `README.md`).
+- **Cible finance (précisée le 15/11, après l'appel avec Thomas Carrega, SG CIB, Cross-Asset Solutions) :**
+  la finance de marché là où les maths s'appliquent concrètement (salle de marché, structuration de dérivés,
+  trading, strats de desk) ; **pas de recherche quant très théorique**. Conseils reçus : candidater dès maintenant,
+  connaître les métiers (sell side, buy side, structureur, gérant…) et leur niveau de maths, et se différencier
+  par la culture financière et l'actualité ; chercher via les sites des banques et le réseau des anciens des Mines.
+
+## Deux conversations, deux dépôts
+
+| Dépôt | Conversation | Contenu |
+|---|---|---|
+| `josselindavion/stages` (celui-ci) | « Stage finance et défense » | Candidatures, contacts, dates limites, CV, lettres, préparation des entretiens |
+| `josselindavion/quant-ml` | Programme d'apprentissage (tuteur) | Programme ML / finance de 22 semaines, contrôles quotidiens, projets de code |
+
+**Règle de synchronisation (15/11) :** chaque conversation travaille **dans son propre dépôt** et **lit l'autre**
+(`git pull`) au début d'une session, sans le modifier. Ce qu'il faut lire dans `quant-ml` :
+`CLAUDE.md` (objectifs, rythme), `planning/README.md` (où il en est, projets faits ou prévus, utiles pour le CV et
+les entretiens) et `notes/probas.md` (probabilités d'entretien). Le programme consacre chaque jour un **bloc S de
+30 min** à la recherche de stage, dont le travail se fait ici ; le bilan du dimanche dans `quant-ml` reprend quatre
+chiffres de ce dépôt : messages envoyés, réponses, appels, candidatures déposées.
+
+**Réseau Mines ParisTech Alumni :** pas d'export possible. Josselin cherche lui-même une entreprise dans l'annuaire,
+ouvre chaque résultat et note qui y travaille ; c'est à Claude de lui dire **quelles entreprises chercher**, dans
+quel ordre.

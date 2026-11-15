@@ -1,10 +1,10 @@
-# Stages de césure — mai 2027 → sept. 2028
+# Stages de césure — juin 2027 → août 2028
 
 Année de césure avant la 3A (Mines de Paris). Deux stages d'environ 6 mois :
 
 | Créneau | Secteur | Période visée | Candidatures |
 |---|---|---|---|
-| S1 | Finance / quant / IA | mai–juin 2027 → oct.–nov. 2027 | **maintenant → janv. 2027** |
+| S1 | Finance de marché (structuration, trading, strats) | juin 2027 → oct.–nov. 2027 | **maintenant → janv. 2027** |
 | S2 | Ingénierie défense | nov. 2027–janv. 2028 → mai–juin 2028 | printemps 2027 (≥ 6 mois avant, à cause de l'habilitation) |
 
 Retour aux Mines (3A) : septembre 2028.
