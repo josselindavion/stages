@@ -13,7 +13,8 @@ Remplacer ce qui est entre crochets.
 
 | Secteur | Phrase de présentation |
 |---|---|
-| Finance | En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté, et j'ai cofondé une startup, Colibri. |
+| Finance (SMS) | En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. |
+| Finance (mail) | En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri. |
 | Défense | En ce moment je suis en stage de recherche à l'ETH Zurich (éléments finis et ML), et avant j'ai fait un stage chez SOGECLAIR et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense. |
 
 | Secteur | Ce que tu cherches |
@@ -26,7 +27,7 @@ Remplacer ce qui est entre crochets.
 ## 1. SMS / WhatsApp (tu)
 
 ```text
-Salut [Prénom] ! Moi c'est Josselin, P25 aux Mines. J'ai vu [dans l'annuaire des anciens / sur LinkedIn] que tu travaillais chez [Entreprise] [, en / sur …]. Je cherche [ce que tu cherches] pendant ma césure. [Phrase de présentation] Tu pourrais me dire comment ça se passe chez vous ? Et si c'est possible, est-ce que tu serais d'accord pour me passer le contact de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes. Merci d'avance !
+Hello [Prénom] ! Moi c'est Josselin, P25. J'ai vu [dans l'annuaire des anciens / sur LinkedIn] que tu travaillais chez [Entreprise] [, en / sur …]. Je cherche [ce que tu cherches] pendant ma césure. [Phrase de présentation] Tu pourrais me dire comment ça se passe chez vous ? Tu aurais quelques conseils ? Et si c'est possible, est-ce que tu serais d'accord pour me passer le contact de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
 ## 2. Mail (tu)
