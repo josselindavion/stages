@@ -57,6 +57,17 @@ def main():
                 if d and d <= horizon:
                     echeances.append((d, m.group(3)))
 
+    suivi = ROOT / "contacts" / "suivi_anciens.csv"
+    if suivi.exists():
+        with open(suivi, newline="", encoding="utf-8") as f:
+            c = list(csv.DictReader(f))
+        env = sum(1 for r in c if r["statut"] not in ("", "a_envoyer"))
+        rep = sum(1 for r in c if r["reponse"].strip())
+        app = sum(1 for r in c if r["appel"].strip())
+        cand = sum(1 for r in rows if r["statut"] in ("envoyee", "test", "entretiens", "offre", "refus"))
+        print(f"\n=== Chiffres du bilan du dimanche ===")
+        print(f"  messages envoyés : {env}/{len(c)}   réponses : {rep}   appels : {app}   candidatures déposées : {cand}")
+
     print(f"\n=== Échéances d'ici {args.jours} jours (et retards) ===")
     if not echeances:
         print("  rien")

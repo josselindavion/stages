@@ -4,7 +4,10 @@ Ce dépôt est l'espace de **recherche de stages** de Josselin (Mines de Paris, 
 jusqu'au 31/01/2027). Toujours répondre en **français**, en tutoyant.
 
 - **Disponibilité (15/11/2026) :** de juin 2027 à août 2028 (année de césure), retour aux Mines en septembre 2028.
-  Idéalement **deux stages d'environ 6 mois** : finance d'abord, défense ensuite (voir `README.md`).
+  Idéalement **deux stages d'environ 6 mois** : la finance est prioritaire, la défense secondaire, mais **ce n'est pas
+  un ordre dans le temps** (15/11) : le stage finance peut tomber dans la 1re ou la 2e moitié de la césure.
+  Ne pas fermer la porte à la finance quantitative : les formulations (CV, messages) restent ouvertes
+  (« finance de marché et quantitative »).
 - **Cible finance (précisée le 15/11, après l'appel avec Thomas Carrega, SG CIB, Cross-Asset Solutions) :**
   la finance de marché là où les maths s'appliquent concrètement, **dans trois familles de métiers qui l'intéressent
   toutes** (décision du 15/11, détail dans `README.md`) : (1) activités de marché en banque (structuration, trading,

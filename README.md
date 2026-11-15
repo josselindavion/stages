@@ -2,11 +2,13 @@
 
 Année de césure avant la 3A (Mines de Paris). Deux stages d'environ 6 mois :
 
-| Créneau | Secteur | Période visée | Candidatures |
+| Priorité | Secteur | Période | Candidatures |
 |---|---|---|---|
-| S1 | Finance de marché (3 familles, voir ci-dessous) | juin 2027 → oct.–nov. 2027 | **maintenant → janv. 2027** |
-| S2 | Ingénierie défense | nov. 2027–janv. 2028 → mai–juin 2028 | printemps 2027 (≥ 6 mois avant, à cause de l'habilitation) |
+| 1 | Finance de marché et finance quantitative (3 familles, voir ci-dessous) | **1re ou 2e moitié de la césure**, selon les offres | **dès maintenant**, en continu |
+| 2 | Ingénierie défense | l'autre moitié | ≥ 6 mois avant le début (habilitation) |
 
+« Finance d'abord » est une **priorité, pas un ordre dans le temps** (décision du 15/11) : un stage finance de
+janvier à juin 2028 convient aussi bien qu'un stage de juin à novembre 2027 ; la défense prend l'autre créneau.
 Retour aux Mines (3A) : septembre 2028.
 
 ## Cible finance : trois familles de métiers (décision du 15/11)
