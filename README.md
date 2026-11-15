@@ -28,8 +28,11 @@ Les appels avec les anciens servent aussi à choisir entre les familles (« à q
 ## Structure
 
 ```
-candidatures.csv   une ligne par candidature (pipeline)
+candidatures.csv   une ligne par entreprise ciblée : famille, format, calendrier, statut
+calendrier_finance.md  quand postuler selon le type d'entreprise (recherche du 15/11) + sources
+annuaire_mpa.md    ordre des recherches dans l'annuaire des anciens + personnes trouvées
 contacts.csv       recruteurs, alumni, profs, référents
+contacts/suivi_anciens.csv  suivi des 126 messages aux anciens (statut, réponse, appel)
 deadlines.md       échéances datées + administratif (césure, conventions)
 prep/              prépa entretiens (quant, technique défense)
 cv/                CV en LaTeX (finance FR/EN, défense FR) + lettres — voir cv/README.md

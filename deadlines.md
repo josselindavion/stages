@@ -8,12 +8,14 @@ Le script `scripts/status.py` lit ce fichier.
 - [ ] 2026-11-30 — Demander à la direction des études le calendrier et le dossier de césure (date à remplacer par la vraie deadline)
 - [ ] 2026-12-15 — Vérifier les règles de convention de stage pendant la césure (deux conventions, durée max, stage à l'étranger)
 
-## Finance (priorité 1)
+## Finance (priorité 1) — voir `calendrier_finance.md`
 
-- [ ] 2026-11-17 — CV finance v1 prêt (cv/)
-- [ ] 2026-11-24 — Premières candidatures envoyées : Jane Street, CFM, Squarepoint, Qube (F05–F08)
-- [ ] 2026-12-15 — Candidatures banques envoyées (F01–F04)
-- [ ] 2027-01-15 — Fin de la vague principale de candidatures finance
+- [ ] 2026-11-22 — Annuaire MPA : vague 1 (banques) faite, contacts notés dans `annuaire_mpa.md`
+- [ ] 2026-11-30 — Candidatures off-cycle 2027 envoyées : J.P. Morgan, Goldman Sachs (Strats), Morgan Stanley (F06–F08) — ouvertes, au fil de l'eau
+- [ ] 2026-12-06 — Annuaire MPA : vague 2 (fonds quant)
+- [ ] 2026-12-15 — Candidatures fonds envoyées : QRT, Squarepoint, Citadel, Point72, Jump (F19, F21–F24)
+- [ ] 2027-01-15 — Début de la veille hebdomadaire des offres BNP / SG / Natixis / CA-CIB pour juillet 2027 (jusqu'en avril)
+- [ ] 2027-07-01 — Si la finance passe en 2e moitié : programmes off-cycle 2028 et offres banques FR pour janvier 2028
 
 ## Défense (priorité 2)
 

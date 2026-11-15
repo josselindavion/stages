@@ -1,24 +1,45 @@
-id,boite,secteur,poste,ville,ouverture,deadline,statut,date_envoi,contact,nationalite,lien,notes
-F01,BNP Paribas CIB,finance,Stage césure quant / strats,Paris,,,cible,,,aucune,https://group.bnpparibas,Desks quant et Global Markets
-F02,Société Générale CIB,finance,Stage césure quant / structuration,Paris,,,cible,,,aucune,https://www.societegenerale.com,
-F03,Natixis CIB,finance,Stage césure quant,Paris,,,cible,,,aucune,https://www.natixis.com,
-F04,Crédit Agricole CIB,finance,Stage césure quant / risque,Paris,,,cible,,,aucune,https://www.ca-cib.com,
-F05,CFM (Capital Fund Management),finance,Stage recherche quant,Paris,,,cible,,,aucune,https://www.cfm.com,Fonds quant très orienté recherche
-F06,Squarepoint Capital,finance,Quant research / dev intern,Paris / Londres,,,cible,,,aucune,https://www.squarepoint-capital.com,
-F07,Qube Research & Technologies,finance,Quant research intern,Paris / Londres,,,cible,,,aucune,https://www.qube-rt.com,
-F08,Jane Street,finance,Quant trader / researcher intern,Londres,,,cible,,,aucune,https://www.janestreet.com,Recrute tôt ; process très probas
-F09,Optiver,finance,Quant / trading intern,Amsterdam,,,cible,,,aucune,https://optiver.com,
-F10,IMC Trading,finance,Quant / trading intern,Amsterdam,,,cible,,,aucune,https://www.imc.com,
-F11,Citadel / Citadel Securities,finance,Quant research intern,Londres / Paris,,,cible,,,aucune,https://www.citadel.com,
-F12,UBS,finance,Quant / risk intern,Zurich,,,cible,,,aucune,https://www.ubs.com,Avantage : déjà sur place à Zurich
-F13,Swiss Re,finance,Quant / data science intern,Zurich,,,cible,,,aucune,https://www.swissre.com,Assurance / réassurance quant
-D01,Thales,defense,Stage ingé (systèmes / défense),France,,,cible,,,UE?,https://www.thalesgroup.com,Vérifier exigence nationalité par offre
-D02,Safran,defense,Stage ingé (propulsion / électronique défense),France,,,cible,,,UE?,https://www.safran-group.com,
-D03,MBDA,defense,Stage ingé (missiles / systèmes),France,,,cible,,,FR?,https://www.mbda-systems.com,Habilitation probable
-D04,Naval Group,defense,Stage ingé (naval),France,,,cible,,,FR?,https://www.naval-group.com,Habilitation probable
-D05,Dassault Aviation,defense,Stage ingé (aéro),France,,,cible,,,FR?,https://www.dassault-aviation.com,
-D06,KNDS France,defense,Stage ingé (terrestre),France,,,cible,,,FR?,https://www.knds.com,
-D07,ArianeGroup,defense,Stage ingé (lanceurs / dissuasion),France,,,cible,,,FR?,https://www.ariane.group,
-D08,Airbus Defence and Space,defense,Stage ingé (spatial / défense),France / Allemagne,,,cible,,,UE?,https://www.airbus.com,
-D09,DGA,defense,Stage ingé (étatique),France,,,cible,,,FR,https://www.defense.gouv.fr/dga,Lien possible avec le corps de l'armement
-D10,CEA DAM,defense,Stage ingé / recherche,France,,,cible,,,FR,https://www-dam.cea.fr,Habilitation requise
+id,boite,secteur,famille,poste,ville,format,calendrier,ouverture,deadline,statut,date_envoi,contact,nationalite,lien,notes
+F01,BNP Paribas CIB,finance,1 banque,"Global Markets : structuration, trading, quant, sales",Paris / Londres,Stages 6 mois publiés offre par offre ; Londres : Long Term Internship,Offres pour un début en janvier 2027 parues juil.–oct. 2026 → pour juillet 2027 : surveiller janv.–avr. 2027 ; pour janv. 2028 : juil.–oct. 2027,,,cible,,,aucune,https://group.bnpparibas/emploi-carriere,"Beaucoup d'anciens Mines (quant, structuration crédit, eFX)"
+F02,Société Générale CIB,finance,1 banque,"Global Markets : structuration, trading, QIS, sales",Paris La Défense / Londres,Stages 6 mois offre par offre,Même rythme que BNP (offres « à compter du 04/01/2027 » publiées à l'automne 2026),,,cible,,,aucune,https://careers.societegenerale.com,"Contact : Thomas Carrega (Genève) ; anciens Mines : Delta One, exotiques"
+F03,Natixis CIB,finance,1 banque,"Structuration, trading, quant",Paris,"Stages 6 mois offre par offre, débuts janvier / avril / juin / juillet",Offres janv. 2027 publiées juil.–oct. 2026 ; certaines annoncent déjà juin–juil. 2027,,,cible,,,aucune,https://www.natixis.com,
+F04,Crédit Agricole CIB,finance,1 banque,"Global Markets Division : trading, structuration, sales",Montrouge / Londres,Stages 6 mois (césure ou fin d'études) ; Londres : 12-month internship,Au fil de l'eau sur le site ; surveiller dès janv. 2027 pour juillet,,,cible,,,aucune,https://www.ca-cib.com,
+F05,HSBC Continental Europe,finance,1 banque,Global Markets,Paris,Stages 6 mois,À vérifier sur le site,,,cible,,,aucune,https://www.hsbc.fr,
+F06,J.P. Morgan,finance,1 banque,"Markets Off-Cycle Internship (trading, structuring, sales)",Paris,"Off-cycle 3 à 6 mois, entrées chaque trimestre","Programmes « 2027 » ouverts depuis l'été 2026, recrutement au fil de l'eau ; le programme 2026 fermait le 31/08/2026 → postuler maintenant",,,cible,,,aucune,https://careers.jpmorgan.com,Une seule candidature Markets conseillée
+F07,Goldman Sachs,finance,1 banque,"FICC & Equities Quantitative Strats / Sales & Trading, Seasonal/Off-Cycle",Paris,Off-cycle,"Offres 2027 Paris publiées le 16/08/2026, au fil de l'eau ; 4 candidatures max par an",,,cible,,,aucune,https://higher.gs.com,Strats = le plus quant des postes de banque
+F08,Morgan Stanley,finance,1 banque,Sales & Trading / Quantitative Finance Off-Cycle,Paris (hub UE),"Off-cycle 6 mois, début janvier ou juillet","Offres 2027 publiées juil.–août 2026, au fil de l'eau",,,cible,,,aucune,https://www.morganstanley.com/careers,
+F09,BofA Securities,finance,1 banque,Global Markets S&T / Global Quantitative Research Off-Cycle,Paris,Off-cycle 3 à 6 mois,2027 : date limite 11/10/2026 (passée) → viser le cycle 2028 (ouverture probable été 2027) pour un stage début 2028,,,cible,,,aucune,https://careers.bankofamerica.com,
+F10,Barclays,finance,1 banque,Off-cycle quant finance / markets,Londres,Off-cycle,Ouvert en août 2026,,,cible,,,aucune,https://search.jobs.barclays,
+F11,Citi / Deutsche Bank / Nomura,finance,1 banque,Markets off-cycle,Londres / Paris,Off-cycle,À vérifier,,,cible,,,aucune,,
+F12,Leonteq,finance,1 banque,Trading / Sales internship (produits structurés),Zurich / Genève,Stages 6 à 12 mois,"Au fil de l'eau, souvent « début immédiat » → postuler 2–3 mois avant",,,cible,,,aucune,https://www.leonteq.com,Sales : allemand souvent demandé ; trading : anglais
+F13,Vontobel,finance,1 banque,Early Careers Internship – Structured Solutions,Zurich,Programme de 6 mois,Programme publié en octobre 2025 → cycle suivant probablement à l'automne,,,cible,,,aucune,https://www.vontobel.com/en/about-vontobel/careers,
+F14,UBS,finance,1 banque,Global Markets internship,Zurich / Londres,À vérifier,À vérifier,,,cible,,,aucune,https://www.ubs.com/careers,Tu es déjà à Zurich
+F15,Vattenfall,finance,1 énergie,Trading power / commodities,Stockholm / Hambourg,Stages ~6 mois,Au fil de l'eau,,,cible,,,aucune,https://group.vattenfall.com/careers,3 anciens Mines récents
+F16,Alpiq,finance,1 énergie,"Structuring & pricing, trading",Lausanne / Olten,Stages,Au fil de l'eau,,,cible,,,aucune,https://www.alpiq.com,Ancien Mines P22
+F17,Axpo,finance,1 énergie,Trading & origination,Baden / Zurich,Stages,Au fil de l'eau,,,cible,,,aucune,https://www.axpo.com,
+F18,TotalEnergies Gas & Power / EDF Trading / Engie GEMS,finance,1 énergie,Trading et risque marchés de l'énergie,Paris / Londres / Genève,Stages 6 mois,Au fil de l'eau,,,cible,,,aucune,,
+F19,Qube Research & Technologies (QRT),finance,2 fonds,Internship Quantitative Research & Trading,Paris / Londres / Genève / Zurich,"4 à 6 mois, débuts surtout avril–juin",Cycle 2027 ouvert (offres en ligne) → postuler maintenant pour juin 2027,,,cible,,,aucune,https://www.qube-rt.com,Ancien Mines P23/P24 (recherche alpha actions)
+F20,CFM (Capital Fund Management),finance,2 fonds,"Stages de recherche (ML, séries temporelles)",Paris,"Offres par sujet, souvent fin d'études",Au fil de l'eau ; vérifier que la césure est acceptée,,,cible,,,aucune,https://jobs.cfm.com,
+F21,Squarepoint Capital,finance,2 fonds,Intern Quant Researcher,Paris / Londres,Off-cycle possible toute l'année (min. 12 semaines côté dev),Au fil de l'eau,,,cible,,,aucune,https://www.squarepoint-capital.com,Ancien Mines P20
+F22,Citadel,finance,2 fonds,Quantitative Research internship,Londres / Paris / Zurich,À vérifier par offre,Cycle 2027 ouvert,,,cible,,,aucune,https://www.citadel.com/careers,
+F23,Point72 / Cubist,finance,2 fonds,Quantitative Researcher Intern,Paris / Londres,À vérifier,Cycle 2027 ouvert,,,cible,,,aucune,https://careers.point72.com,
+F24,Jump Trading,finance,2 fonds,Campus Quantitative Researcher (M1/M2 Intern),Paris / Londres,Stage long (M1/M2),Ouvert depuis juillet 2026,,,cible,,,aucune,https://www.jumptrading.com,
+F25,Tower Research Capital,finance,2 fonds,Quantitative Developer Intern,Paris,À vérifier,Ouvert,,,cible,,,aucune,https://www.tower-research.com,Plutôt dev
+F26,Millennium,finance,2 fonds,Quant / trading,Paris / Londres,À vérifier,À vérifier,,,cible,,,aucune,https://www.mlp.com,3 anciens Mines (P17–P18)
+F27,G-Research,finance,2 fonds,Quant research,Londres,À vérifier,À vérifier,,,cible,,,aucune,https://www.gresearch.com,Ancien Mines P15
+F28,Syquant Capital / Machina Capital / Eisler Capital,finance,2 fonds,Finance de marché / quant,Paris / Londres,Stages,Au fil de l'eau,,,cible,,,aucune,,Anciens Mines dans chacune
+F29,Optiver,finance,3 market maker,Quantitative Trading / Research Internship (2027 start),Amsterdam,10 semaines l'été,Ouvert ; ATTENTION : 8 mois d'attente après un test raté → ne postuler qu'une fois prêt,,,cible,,,aucune,https://optiver.com,Trop court pour un stage de 6 mois
+F30,IMC Trading,finance,3 market maker,Quantitative Trader Intern,Amsterdam,"Été, début le 28/06/2027",Ouvert,,,cible,,,aucune,https://www.imc.com,Trop court pour 6 mois
+F31,Jane Street,finance,3 market maker,Quantitative Trader / Researcher Internship,Londres,Juin–septembre 2027,"Ouvert depuis août 2026, au fil de l'eau",,,cible,,,aucune,https://www.janestreet.com,Trop court pour 6 mois
+F32,Flow Traders,finance,3 market maker,Trading Intern,Amsterdam,8 semaines dès le 01/07/2027 ; entrées trimestrielles pour certains programmes,Au fil de l'eau,,,cible,,,aucune,https://www.flowtraders.com,
+F33,Maven Securities,finance,3 market maker,Quant Trader (6 mois),Londres,6 mois,Date limite 2026 : 21/10/2026 (passée) → surveiller le prochain cycle,,,cible,,,aucune,https://www.mavensecurities.com,Un des rares market makers avec un format de 6 mois
+F34,Da Vinci Trading,finance,3 market maker,Quant Trading Intern (mai 2027),Amsterdam,Durée à vérifier,Ouvert,,,cible,,,aucune,https://www.davincitrading.com,
+D01,Thales,defense,défense,Stage ingé (systèmes / défense),France,,,,,cible,,,UE?,https://www.thalesgroup.com,Vérifier exigence nationalité par offre
+D02,Safran,defense,défense,Stage ingé (propulsion / électronique défense),France,,,,,cible,,,UE?,https://www.safran-group.com,
+D03,MBDA,defense,défense,Stage ingé (missiles / systèmes),France,,,,,cible,,,FR?,https://www.mbda-systems.com,Habilitation probable
+D04,Naval Group,defense,défense,Stage ingé (naval),France,,,,,cible,,,FR?,https://www.naval-group.com,Habilitation probable
+D05,Dassault Aviation,defense,défense,Stage ingé (aéro),France,,,,,cible,,,FR?,https://www.dassault-aviation.com,
+D06,KNDS France,defense,défense,Stage ingé (terrestre),France,,,,,cible,,,FR?,https://www.knds.com,
+D07,ArianeGroup,defense,défense,Stage ingé (lanceurs / dissuasion),France,,,,,cible,,,FR?,https://www.ariane.group,
+D08,Airbus Defence and Space,defense,défense,Stage ingé (spatial / défense),France / Allemagne,,,,,cible,,,UE?,https://www.airbus.com,
+D09,DGA,defense,défense,Stage ingé (étatique),France,,,,,cible,,,FR,https://www.defense.gouv.fr/dga,Lien possible avec le corps de l'armement
+D10,CEA DAM,defense,défense,Stage ingé / recherche,France,,,,,cible,,,FR,https://www-dam.cea.fr,Habilitation requise
