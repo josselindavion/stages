@@ -1,7 +1,7 @@
 # Messages aux anciens des Mines
 
 Un message par élève, numéroté comme dans `suivi_anciens.csv` (C001…). Ordre : finance prioritaire, finance, défense prioritaire, défense ; promos récentes d'abord.
-Avant d'envoyer : relire la phrase sur leur stage (elle vient du fichier des stages). Après l'envoi : passer le statut à `envoye` dans le suivi (ou me dire lesquels sont partis).
+SMS jusqu'à la P19 incluse, mail pour les promos plus anciennes. Version la plus pratique pour copier : `messages_anciens.html`.
 
 ## Finance — prioritaires (10)
 
@@ -247,256 +247,100 @@ Hello Alexandre ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages qu
 Hello Pierre-Louis ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez Euronext en recherche en finance quantitative. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C031 — Cynthia BALECH (P19, Mail, tu)
+### C031 — Cynthia BALECH (P19, SMS, tu)
 
 *chez TotalEnergies en M&A*
 
-**Objet :** Élève des Mines (P25) – ton stage chez TotalEnergies
-
 ```text
-Bonjour Cynthia,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez TotalEnergies en M&A, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Cynthia ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez TotalEnergies en M&A. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C032 — Pierre BELAMRI (P19, Mail, tu)
+### C032 — Pierre BELAMRI (P19, SMS, tu)
 
 *chez Mazars en finance quantitative*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Mazars
-
 ```text
-Bonjour Pierre,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez Mazars en finance quantitative, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Pierre ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez Mazars en finance quantitative. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C033 — Cyprien BOUTON (P19, Mail, tu)
+### C033 — Cyprien BOUTON (P19, SMS, tu)
 
 *chez Syquant Capital en finance de marché; chez Eiffel Investment en dette privée*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Syquant Capital
-
 ```text
-Bonjour Cyprien,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait des stages chez Syquant Capital en finance de marché et chez Eiffel Investment en dette privée, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ces stages, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Cyprien ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait des stages chez Syquant Capital en finance de marché et chez Eiffel Investment en dette privée. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de tes stages ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C034 — France D'AGRAIN (P19, Mail, tu)
+### C034 — France D'AGRAIN (P19, SMS, tu)
 
 *à la BCE au département des statistiques*
 
-**Objet :** Élève des Mines (P25) – ton stage à la BCE
-
 ```text
-Bonjour France,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage à la BCE au département des statistiques, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello France ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage à la BCE au département des statistiques. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C035 — Gaspard DE TURCKHEIM (P19, Mail, tu)
+### C035 — Gaspard DE TURCKHEIM (P19, SMS, tu)
 
 *chez Natixis comme structureur en dérivés actions; chez Goldman Sachs en Corporate Treasury Strats*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Natixis
-
 ```text
-Bonjour Gaspard,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait des stages chez Natixis comme structureur en dérivés actions et chez Goldman Sachs en Corporate Treasury Strats, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ces stages, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Gaspard ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait des stages chez Natixis comme structureur en dérivés actions et chez Goldman Sachs en Corporate Treasury Strats. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de tes stages ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C036 — Antoine DEJOIE (P19, Mail, tu)
+### C036 — Antoine DEJOIE (P19, SMS, tu)
 
 *au Crédit Agricole en finance de marché*
 
-**Objet :** Élève des Mines (P25) – ton stage au Crédit Agricole
-
 ```text
-Bonjour Antoine,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage au Crédit Agricole en finance de marché, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Antoine ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage au Crédit Agricole en finance de marché. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C037 — Clément DESROCHES (P19, Mail, tu)
+### C037 — Clément DESROCHES (P19, SMS, tu)
 
 *chez Degroof Petercam avec l'équipe produits dérivés; chez EY en transaction services*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Degroof Petercam
-
 ```text
-Bonjour Clément,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait des stages chez Degroof Petercam avec l'équipe produits dérivés et chez EY en transaction services, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ces stages, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Clément ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait des stages chez Degroof Petercam avec l'équipe produits dérivés et chez EY en transaction services. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de tes stages ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C038 — Laura GARDA (P19, Mail, tu)
+### C038 — Laura GARDA (P19, SMS, tu)
 
 *chez CPCU en project finance; chez EQUANS en M&A*
 
-**Objet :** Élève des Mines (P25) – ton stage chez CPCU
-
 ```text
-Bonjour Laura,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait des stages chez CPCU en project finance et chez EQUANS en M&A, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ces stages, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Laura ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait des stages chez CPCU en project finance et chez EQUANS en M&A. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de tes stages ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C039 — Joao Antonio GORIA SILVA (P19, Mail, tu)
+### C039 — Joao Antonio GORIA SILVA (P19, SMS, tu)
 
 *chez Lombard International en risk management*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Lombard International
-
 ```text
-Bonjour Joao Antonio,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez Lombard International en risk management, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Joao Antonio ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez Lombard International en risk management. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C040 — Alex MORAIS (P19, Mail, tu)
+### C040 — Alex MORAIS (P19, SMS, tu)
 
 *chez BNP Paribas en finance de marché*
 
-**Objet :** Élève des Mines (P25) – ton stage chez BNP Paribas
-
 ```text
-Bonjour Alex,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez BNP Paribas en finance de marché, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Alex ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez BNP Paribas en finance de marché. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C041 — Bérénice SINOPOLI--PAL (P19, Mail, tu)
+### C041 — Bérénice SINOPOLI--PAL (P19, SMS, tu)
 
 *chez EY Parthenon en M&A*
 
-**Objet :** Élève des Mines (P25) – ton stage chez EY Parthenon
-
 ```text
-Bonjour Bérénice,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez EY Parthenon en M&A, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Bérénice ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez EY Parthenon en M&A. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C042 — Nathan WEILL (P19, Mail, tu)
+### C042 — Nathan WEILL (P19, SMS, tu)
 
 *chez Eisler Capital en finance quantitative*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Eisler Capital
-
 ```text
-Bonjour Nathan,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez Eisler Capital en finance quantitative, et je me permets de t'écrire parce que je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich, où je fais du machine learning appliqué à la mécanique. En parallèle, je me forme au ML pour la finance, et j'ai cofondé une startup, Colibri.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Nathan ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez Eisler Capital en finance quantitative. Je cherche un stage en finance de marché ou en finance quantitative (structuration, trading, recherche quant) pendant ma césure. En ce moment je suis en stage de recherche en ML à l'ETH Zurich, je me forme au ML pour la finance à côté. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
 ### C043 — Pierre (nom absent du fichier) (P18, Mail, tu)
@@ -1392,88 +1236,36 @@ Hello Pauline ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que 
 Hello Michaël ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage au CNES en maths appliquées. Je cherche un stage en ingénierie dans la défense ou l'aéronautique pendant ma césure. En ce moment je suis en stage de recherche à l'ETH Zurich (éléments finis et ML), et avant j'ai fait un stage chez SOGECLAIR et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C107 — Valentin FENOUX (P19, Mail, tu)
+### C107 — Valentin FENOUX (P19, SMS, tu)
 
 *chez Lilium en production*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Lilium
-
 ```text
-Bonjour Valentin,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez Lilium en production, et je me permets de t'écrire parce que je cherche un stage en ingénierie dans la défense ou l'aéronautique pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich (simulation par éléments finis et machine learning), et j'ai fait avant un stage chez SOGECLAIR Aerospace et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Valentin ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez Lilium en production. Je cherche un stage en ingénierie dans la défense ou l'aéronautique pendant ma césure. En ce moment je suis en stage de recherche à l'ETH Zurich (éléments finis et ML), et avant j'ai fait un stage chez SOGECLAIR et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C108 — Thomas FOLIARD (P19, Mail, tu)
+### C108 — Thomas FOLIARD (P19, SMS, tu)
 
 *chez Safran Ceramics en modélisation de procédé composite*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Safran Ceramics
-
 ```text
-Bonjour Thomas,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez Safran Ceramics en modélisation de procédé composite, et je me permets de t'écrire parce que je cherche un stage en ingénierie dans la défense ou l'aéronautique pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich (simulation par éléments finis et machine learning), et j'ai fait avant un stage chez SOGECLAIR Aerospace et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Thomas ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez Safran Ceramics en modélisation de procédé composite. Je cherche un stage en ingénierie dans la défense ou l'aéronautique pendant ma césure. En ce moment je suis en stage de recherche à l'ETH Zurich (éléments finis et ML), et avant j'ai fait un stage chez SOGECLAIR et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C109 — Simon LECONTE (P19, Mail, tu)
+### C109 — Simon LECONTE (P19, SMS, tu)
 
 *chez Sysnav en traitement du signal*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Sysnav
-
 ```text
-Bonjour Simon,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez Sysnav en traitement du signal, et je me permets de t'écrire parce que je cherche un stage en ingénierie dans la défense ou l'aéronautique pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich (simulation par éléments finis et machine learning), et j'ai fait avant un stage chez SOGECLAIR Aerospace et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Simon ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez Sysnav en traitement du signal. Je cherche un stage en ingénierie dans la défense ou l'aéronautique pendant ma césure. En ce moment je suis en stage de recherche à l'ETH Zurich (éléments finis et ML), et avant j'ai fait un stage chez SOGECLAIR et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
-### C110 — Pierre SION (P19, Mail, tu)
+### C110 — Pierre SION (P19, SMS, tu)
 
 *chez Safran sur la modélisation d'un banc d'essai*
 
-**Objet :** Élève des Mines (P25) – ton stage chez Safran
-
 ```text
-Bonjour Pierre,
-
-Je m'appelle Josselin Davion-Jouffre, je suis en 2e année aux Mines (P25). J'ai vu dans le fichier des stages que tu avais fait un stage chez Safran sur la modélisation d'un banc d'essai, et je me permets de t'écrire parce que je cherche un stage en ingénierie dans la défense ou l'aéronautique pendant ma césure.
-
-En ce moment, je suis en stage de recherche à l'ETH Zurich (simulation par éléments finis et machine learning), et j'ai fait avant un stage chez SOGECLAIR Aerospace et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense.
-
-Est-ce que tu accepterais de me dire ce que tu as pensé de ce stage, et si tu aurais quelques conseils à me donner ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me transmettre le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si tu as un peu de temps, je serais aussi ravi d'en parler 15 minutes au téléphone.
-
-Merci beaucoup, et bonne journée !
-
-Josselin Davion-Jouffre
-Mines Paris – P25
+Hello Pierre ! Moi c'est Josselin, P25. J'ai vu dans le fichier des stages que tu avais fait un stage chez Safran sur la modélisation d'un banc d'essai. Je cherche un stage en ingénierie dans la défense ou l'aéronautique pendant ma césure. En ce moment je suis en stage de recherche à l'ETH Zurich (éléments finis et ML), et avant j'ai fait un stage chez SOGECLAIR et SERA Ingénierie, sur des adaptateurs de lanceurs et des véhicules de défense. Tu pourrais me dire ce que tu as pensé de ton stage ? Tu aurais quelques conseils ? Et si ça s'est bien passé, est-ce que tu serais d'accord pour me passer le contact de ton maître de stage ou de quelqu'un de l'équipe ? Si ça te dit, on peut aussi s'appeler 10 minutes, ça m'aiderait beaucoup. Merci d'avance !
 ```
 
 ### C111 — Louis-Antoine DURAND (P18, Mail, tu)
