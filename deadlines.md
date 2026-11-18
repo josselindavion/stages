@@ -10,7 +10,9 @@ Le script `scripts/status.py` lit ce fichier.
 
 ## Finance (priorité 1) — voir `calendrier_finance.md`
 
-- [ ] 2026-11-18 — Appel Hadrien Do Cao (Euronext, recherche quant), mercredi soir 18h-20h (horaire à confirmer)
+- [x] 2026-11-18 — Appel Hadrien Do Cao (Euronext, recherche quant)
+- [ ] 2026-11-25 — Euronext : écrire au responsable Quant Research dès réception de son adresse (Hadrien) (F44)
+- [ ] 2026-12-15 — Atelier CV / entretien blanc aux Mines (conseil de Hadrien)
 - [ ] 2026-11-18 — Appel Juliette Jahan (Trailstone, trading d'énergie renouvelable), vers 20h30-21h, c'est elle qui appelle
 - [ ] 2026-11-21 — Appel Gaspard Pereira (VC Bpifrance), samedi, horaire à fixer
 - [ ] 2026-11-21 — Appel Nathan Weill (ex-Eisler) ce week-end, horaire à fixer
