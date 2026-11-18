@@ -1,9 +1,8 @@
 # Quand postuler en finance
 
-Mise à jour du **18/11/2026** : vérification entreprise par entreprise (banques, Suisse, QRT, CFM, Tower). Le détail
-est dans `candidatures.csv` (colonnes `calendrier` et `notes`, préfixe « vérifié le 18/11/2026 »). Restent à
-vérifier : Squarepoint, Citadel, Point72, Jump, Millennium, G-Research, D. E. Shaw, Man, XTX, fonds macro,
-gestionnaires d'actifs, market makers, énergie et négoce (limite de recherches atteinte le 18/11).
+Mise à jour du **18/11/2026** : vérification entreprise par entreprise (banques, Suisse, fonds quant, market makers,
+gestionnaires d'actifs, énergie, négoce, plus 5 entreprises ajoutées). Le détail est dans `candidatures.csv` (colonnes
+`calendrier` et `notes`, préfixe « vérifié le 18/11/2026 ») ; les entreprises écartées y sont en statut `écarté`.
 
 ## Le piège de l'année de diplôme
 
@@ -39,9 +38,17 @@ Donc : **un CV prêt et relu avant de cliquer**, et le bon programme du premier 
 
 | Quand postuler | Où | Pour un stage qui commence |
 |---|---|---|
-| **Maintenant (nov.–déc. 2026)** | Goldman Sachs Paris (S&T off-cycle + Quantitative Strats), Morgan Stanley S&T off-cycle Paris, Barclays STS off-cycle Paris, QRT Quantitative Research | juin–juillet 2027 |
-| **Janvier → mai 2027** (veille chaque semaine) | BNP Paribas, SG (offres publiées 3 à 7 semaines avant le début seulement), Natixis (dès décembre), CA-CIB, Citi Paris (intake de juillet : févr.–mars), Kepler Cheuvreux (mars–avril), UBS Suisse (janv.–mars, début sept. 2027), Deutsche Bank Paris (fin avril, début juillet), Leonteq (mars–mai), Nomura Paris (mars–juin) | juin–septembre 2027 |
-| **Juin → octobre 2027** | Cycles « 2028 » : J.P. Morgan (vers sept.), BofA (été → oct.), Goldman Sachs et Morgan Stanley 2028 (juil.–sept.), UBS off-cycle 2028 (août), Tower Paris (vers juin, début févr. 2028), Vontobel (vers mi-oct., cohorte mars 2028), banques françaises pour janvier 2028 (juil.–oct.), Deutsche Bank Paris (oct.) | janvier–mars 2028 |
+| **Maintenant (nov.–déc. 2026)** | Banques : Goldman Sachs Paris (S&T off-cycle + Quantitative Strats), Morgan Stanley S&T off-cycle Paris, Barclays STS off-cycle Paris. Fonds : QRT, Squarepoint (Paris, 1 seule candidature), Jump M1/M2 Paris (l'an dernier retiré le 10/11 : urgent), Cubist (pari). Market maker : Maven, 6 mois à Londres, début juillet 2027 (si le lien marche encore). Murex Paris. Rothschild & Co AM (déc.–janv., session de juillet) | juin–juillet 2027 |
+| **Janvier → mai 2027** (veille chaque semaine) | Optiver FutureFocus (diplômés 2029, date limite 01/02/2027, après préparation des tests), BNP Paribas, SG (offres publiées 3 à 7 semaines avant le début seulement), Natixis (dès décembre), CA-CIB, Citi Paris (intake de juillet : févr.–mars), Kepler Cheuvreux (mars–avril), UBS Suisse (janv.–mars, début sept. 2027), Deutsche Bank Paris (fin avril, début juillet), Leonteq (mars–mai), Nomura Paris (mars–juin), énergie (TotalEnergies, EDF Trading, Engie : févr.–mai ; Vattenfall dès nov. ; Alpiq, Axpo au fil de l'eau), Amundi (veille) | juin–septembre 2027 |
+| **Juin → octobre 2027** | Cycles « 2028 » : J.P. Morgan (vers sept.), BofA (été → oct.), Goldman Sachs et Morgan Stanley 2028 (juil.–sept.), UBS off-cycle 2028 (août), Tower Paris (vers juin, début févr. 2028), Vontobel (vers mi-oct., cohorte mars 2028), banques françaises pour janvier 2028 (juil.–oct.), Deutsche Bank Paris (oct.), Man AHL off-cycle 6 mois (sept.), Euronext Quant Intern (juin–oct.), BlackRock off-cycle 2028 (juin) | janvier–mars 2028 |
+
+## Stages d'été courts (10 semaines) : un pari, pas la cible
+
+Citadel (Zurich, Londres), Jane Street (Londres, sans test en ligne), SIG (Dublin, Londres), G-Research (Londres, date
+limite **23/11/2026**, doctorat préféré) proposent des stages d'été 2027 ouverts à ton profil. Ils ne remplacent pas un
+stage de 6 mois, mais un été 2027 chez l'un d'eux suivi d'un stage de 6 mois tiendrait dans la césure. La plupart des
+autres (Optiver, IMC, Flow Traders, Da Vinci, Millennium, Marshall Wace, Capula, Brevan Howard) exigent un diplôme
+en 2028 pour l'été 2027 : pour eux, c'est l'été 2028.
 
 ## Londres : un visa est nécessaire
 
@@ -96,6 +103,25 @@ bloque toute nouvelle candidature pendant **8 mois** : ne postuler qu'une fois l
 - Suivi des cycles quant 2027 (Jane Street, Maven…) : https://www.quantt.co.uk/quant-internship-tracker
 
 ### Sources ajoutées le 18/11/2026
+
+- Squarepoint, Intern Quant Researcher (annonce permanente) : https://simplify.jobs/p/2c334a12-438c-49bb-8cf8-53a3ebc22b33/Intern-Quant-Researcher
+- Jump Trading, Campus QR M1/M2 : https://builtin.com/job/campus-quantitative-researcher-m1-m2-intern/6786018
+- Maven, Quant Trader Internship 2027 (6 months) : https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552
+- Cubist, Quantitative Researcher Intern : https://everythingquant.com/recruiting/jobs/738/point72-cubist-quantitative-researcher-intern-3f53ec6be0e9b528/
+- Optiver, FutureFocus Quants 2027 et FAQ : https://www.optiver.com/join-us/jobs/trading/amsterdam/futurefocus-quants-2027/ , https://optiver.com/join-us/stories/optiver-europe-recruitment-faq/
+- G-Research, Quant Research Internship : https://www.gresearch.com/vacancies/quant-research-internship/
+- Jane Street, stages : https://www.janestreet.com/join-jane-street/internships/
+- Citadel, guide stages : https://www.quantt.co.uk/resources/citadel-internship
+- Man Group, AHL QR internship : https://targetjobs.co.uk/jobs/quant-researcher-internship-239297
+- Millennium, étudiants : https://www.mlp.com/careers/students
+- IMC, Quantitative Trader Intern : https://www.imc.com/eu/careers/jobs/4936262101
+- Euronext, Quant Intern : https://www.euronext.com/en/about/careers/job-offers/r28574-france-quant-intern
+- Murex, stages : https://www.welcometothejungle.com/fr/companies/murex/jobs
+- Rothschild & Co AM, stage gestion obligataire : https://www.rothschildandco.com/fr-ch/carrieres/profils-experimentes/nos-carrieres/stage-assistante-gestion-obligataire---janvier-2027/
+- BlackRock, 2027 Off-cycle EMEA : https://careers.blackrock.com/job/london/2027-off-cycle-internship-program-emea/45831/97104654800
+- Alpiq, stages : https://www.alpiq.com/career/young-talents/entry-level
+- Axpo, Intern Market Risk : https://careers.axpo.com/jobs/8131209-intern-market-risk-f-m-d
+- Permis L UE/AELE : https://www.sem.admin.ch/en/l-eu-efta-permit-short-term-residents
 
 - Goldman Sachs, 2027 Paris S&T et Quantitative Strats Off-Cycle : https://higher.gs.com/roles/171438 , https://higher.gs.com/roles/175429
 - Goldman Sachs, off-cycle EMEA : https://www.goldmansachs.com/careers/students/programs-and-internships/emea/off-cycle-internships

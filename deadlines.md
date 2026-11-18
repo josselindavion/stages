@@ -18,14 +18,22 @@ Le script `scripts/status.py` lit ce fichier.
 - [ ] 2026-12-06 — Annuaire MPA : vague 2 (fonds quant)
 - [ ] 2026-11-16 — SMS de remerciement à Enzo Alifano
 - [ ] 2026-11-23 — LeetCode commencé (liste « Top Interview 150 », Python) — demander une place dans le programme quant-ml
-- [ ] 2026-12-15 — Candidature Squarepoint (F21) sur le site, CV anglais ; si l'offre est fermée → SMS à Enzo
 - [ ] AVANT CHAQUE CANDIDATURE — Vérifier le CV : ne garder dans « Formation complémentaire » que ce qui est fait ou en cours (background checks, cf. appel Alifano)
-- [ ] 2026-12-15 — Candidatures fonds envoyées : Squarepoint, Citadel, Point72, Jump (F21–F24), après vérification de leurs offres
+- [ ] 2026-11-23 — (optionnel) G-Research Quant Research Internship, été 2027 à Londres, date limite (F27)
+- [ ] 2026-11-25 — Jump Trading Campus QR M1/M2 Paris (F24) : l'annonce de l'an dernier a été retirée le 10/11, faire vite
+- [ ] 2026-11-30 — Maven Quant Trader 6 mois Londres, début juillet 2027, si le lien Greenhouse marche encore (F33)
+- [ ] 2026-12-07 — Squarepoint Intern QR Paris (F21, une seule candidature ; CV anglais) ; Cubist QR intern Paris (F23, pari) ; Murex (F45)
+- [ ] 2026-12-15 — (optionnel) Stages d'été 2027 : Jane Street, Citadel, SIG (F22, F31, F32)
+- [ ] 2027-01-10 — Rothschild & Co AM, session de juillet 2027 (F46)
+- [ ] 2027-01-15 — Vattenfall : stages de l'été 2027 (F15)
+- [ ] 2027-02-01 — Optiver FutureFocus Quants (diplômés 2029), après préparation des tests (F29)
 - [ ] 2026-12-01 — Natixis : début de la veille hebdo (offres de juillet 2027 déjà publiées)
 - [ ] 2027-01-15 — Début de la veille hebdomadaire BNP / SG / CA-CIB / Citi / Kepler Cheuvreux / Leonteq / Nomura pour un début juin–sept. 2027 (jusqu'en mai) ; SG publie 3 à 7 semaines avant le début
 - [ ] 2027-01-31 — UBS Internship Program Suisse, début sept. 2027 (candidatures janv.–mars, 3 max par an) (F14)
 - [ ] 2027-04-20 — Deutsche Bank Paris : offres sales pour juillet 2027 (F35)
 - [ ] 2027-06-15 — Tower Research Paris : offre Quant Dev février 2028 (F25)
+- [ ] 2027-06-15 — Euronext Quant Intern et BlackRock off-cycle 2028 (F43, F44)
+- [ ] 2027-09-01 — Man AHL off-cycle 6 mois début 2028 (F40)
 - [ ] 2027-08-15 — Cycles « 2028 » : J.P. Morgan, BofA (1 seule candidature EMEA), GS, MS, UBS off-cycle (F06–F09, F14)
 - [ ] 2027-10-15 — Vontobel Early Careers, cohorte mars 2028 (F13)
 - [ ] 2027-07-01 — Si la finance passe en 2e moitié : programmes off-cycle 2028 et offres banques FR pour janvier 2028
