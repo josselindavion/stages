@@ -10,6 +10,9 @@ Le script `scripts/status.py` lit ce fichier.
 
 ## Finance (priorité 1) — voir `calendrier_finance.md`
 
+- [ ] 2026-11-18 — Appel Hadrien Do Cao (Euronext, recherche quant), mercredi soir 18h-20h (horaire à confirmer)
+- [ ] 2026-11-21 — Appel Alexandre Malige (Amundi Intermédiation), samedi 9h30-10h
+- [ ] 2026-11-22 — Relancer Audren Nison (Alpiq) s'il n'a pas répondu
 - [ ] 2026-11-22 — Annuaire MPA : vague 1 (banques) faite, contacts notés dans `annuaire_mpa.md`
 - [ ] 2026-11-30 — Candidatures off-cycle 2027 envoyées : J.P. Morgan, Goldman Sachs (Strats), Morgan Stanley (F06–F08) — ouvertes, au fil de l'eau
 - [ ] 2026-12-06 — Annuaire MPA : vague 2 (fonds quant)
