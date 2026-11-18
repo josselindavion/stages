@@ -11,6 +11,8 @@ Le script `scripts/status.py` lit ce fichier.
 ## Finance (priorité 1) — voir `calendrier_finance.md`
 
 - [ ] 2026-11-18 — Appel Hadrien Do Cao (Euronext, recherche quant), mercredi soir 18h-20h (horaire à confirmer)
+- [ ] 2026-11-18 — Appel Juliette Jahan (Trailstone, trading d'énergie renouvelable), vers 20h30-21h, c'est elle qui appelle
+- [ ] 2026-11-21 — Appel Nathan Weill (ex-Eisler) ce week-end, horaire à fixer
 - [ ] 2026-11-21 — Appel Alexandre Malige (Amundi Intermédiation), samedi 9h30-10h
 - [ ] 2026-11-22 — Relancer Audren Nison (Alpiq) s'il n'a pas répondu
 - [ ] 2026-11-22 — Annuaire MPA : vague 1 (banques) faite, contacts notés dans `annuaire_mpa.md`
