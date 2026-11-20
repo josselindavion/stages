@@ -13,14 +13,14 @@ C011,Julie,BOYER,P24/P23,finance,,SMS,07 83 62 67 77,,tu,chez Alan en gestion de
 C012,Eric,KABIS DE SAINT CHAMAS,P24/P23,finance,,SMS,06 59 77 19 43,,tu,à l'ACPR en modélisation des risques financiers,envoyé,16/11/2026,"16/11 : data science sur données bancaires (PD, LGD), inspection des modèles de risque des banques pour la BCE ; rien de quant",,,Piste peu pertinente ; lui ai dit que je reviendrais vers lui si intéressé
 C013,Gaspard,PEREIRA,P24/P23,finance,,SMS,06 52 78 89 89,,tu,chez Bpifrance en venture capital,envoyé,17/11/2026,17/11 : pas de finance de marché (VC à Bpifrance) ; recommande Maxime Clergé (C002) ; ok pour un appel samedi,"Maxime Clergé (déjà contacté, C002)","2026-11-21 (prévu, horaire à fixer)","Client de Colibri, contacté de façon informelle"
 C014,Armand,BOURDERIOUX,P22,finance,,SMS,06 95 67 91 71,,tu,chez Vattenfall comme analyste sur les commodities environnementales,envoyé,16/11/2026,"oui (SMS 17/11) : stage plutôt data engineering/science, marché de niche, peu utile pour la quant ; 2-3 stagiaires ont pris la suite",,,
-C015,Baptiste,Ceccaldi,P22,finance,,SMS,06 21 14 44 25,,tu,chez SWEN Capital Partners en asset management,envoyé,16/11/2026,"oui (SMS 17/11) : stage en private equity, pas marchés","William (ami CentraleSupélec, BNP Paribas New York)",,
+C015,Baptiste,Ceccaldi,P22,finance,,SMS,06 21 14 44 25,,tu,chez SWEN Capital Partners en asset management,envoyé,16/11/2026,"oui (SMS 17/11) : stage en private equity, pas marchés","William (BNP NY), Mehmet Basagac, Pierre Beaulieu, Luca Birtas",2026-11-19 (fait),Notes : contacts/appels/2026-11-19_baptiste-ceccaldi.md
 C016,Alexandre,Malige,P22,finance,,SMS,06 83 79 92 46,,tu,chez Amundi Intermédiation en data et finance,envoyé,16/11/2026,"16/11 : stage sympa, ok pour appeler",,"2026-11-21 (prévu, samedi 9h30-10h)",Appel samedi 21/11 vers 9h30-10h
 C017,Audren,Nison,P22,finance,,SMS,06 50 66 50 77,,tu,chez Alpiq en structuration et pricing sur les marchés de l'énergie,envoyé,16/11/2026,17/11 : répondra quand il aura le temps,,,Le relancer le week-end du 21-22/11 s'il n'a pas répondu
 C018,Jules,ROYER,P22,finance,,SMS,07 83 16 11 68,,tu,chez BNP Paribas en deep learning,envoyé,16/11/2026,20/11: il faisait de la computer vision et ca n'avait rien à voir avc du trading,,,
 C019,Ulysse,Ségui,P22,finance,,SMS,06 40 35 46 15,,tu,chez AXA Climate en modélisation des risques climatiques,a_envoyer,,,,,
 C020,Aïssatou,TOURE,P22,finance,,SMS,07 82 48 61 44,,tu,chez BNP Paribas en transformation digitale,a_envoyer,,,,,
 C021,Augustin,GOUBAULT,P21,finance,,SMS,07 88 96 49 25,,tu,chez BNP Paribas comme risk analyst,envoyé,16/11/2026,,,,
-C022,Juliette,Jahan,P21,finance,,SMS,07 82 05 01 23,,tu,chez Trailstone en gestion de portefeuille renouvelable,envoyé,16/11/2026,17/11 : ok pour s'appeler,,"2026-11-18 (prévu, vers 20h30-21h, elle appelle)",
+C022,Juliette,Jahan,P21,finance,,SMS,07 82 05 01 23,,tu,chez Trailstone en gestion de portefeuille renouvelable,envoyé,16/11/2026,17/11 : ok pour s'appeler,,2026-11-18 (fait),"Appel court, peu instructif"
 C023,Ludovic,LEPIC,P21,finance,,SMS,07 82 28 46 05,,tu,chez Adagia Partners en private equity,envoyé,16/11/2026,"17/11 : Adagia = corporate finance (conseil aux sociétés en portefeuille), pas marché ni quant ; ok pour s'appeler",,"2026-11-18 (prévu, horaire à fixer par lui)",Appel surtout pour le réseau (contacts marché/quant de sa promo P21)
 C024,Inès,NARDUZZI--MINATCHY,P21,finance,,SMS,06 95 73 25 84,,tu,à l'ACPR aux affaires internationales,a_envoyer,,,,,
 C025,Théo,TAKLA,P21,finance,,SMS,07 81 46 04 46,,tu,chez Vattenfall dans l'équipe Nordic Trading,a_envoyer,,,,,
@@ -126,3 +126,6 @@ C124,Aurélien,Richard,P14,defense,,Mail,,,vous,chez MBDA,a_envoyer,,,,,
 C125,Benoît,de Malet,P14,defense,,Mail,,,vous,chez Thales en R&D logicielle,a_envoyer,,,,,
 C126,Arnaud,de Mattia,P14,defense,,Mail,,,vous,chez MBDA,a_envoyer,,,,,
 C127,Maxime,PIVERT,P24,finance,oui,SMS,06 62 84 55 75,,tu,chez TotalEnergies à Genève en trading (stage en cours),a_envoyer,,,,,"Contact donné par Antoine Février (ETH), bon ami à lui"
+C128,Mehmet,BASAGAC,,finance,oui,SMS,,,tu,"chez BNP Paribas (stage, à préciser)",a_envoyer,,,,,Mines ; contact donné par Baptiste Ceccaldi
+C129,Pierre,BEAULIEU,,finance,oui,SMS,,,tu,"chez BNP Paribas (stage, à préciser)",a_envoyer,,,,,"Mines, parrain de Baptiste Ceccaldi ; contact donné par Baptiste"
+C130,Luca,BIRTAS,,finance,oui,SMS,,,tu,"chez Société Générale, HSBC et Crédit Agricole CIB (stages)",a_envoyer,,,,,"CentraleSupélec ; dire « de la part de Baptiste Ceccaldi, pote de Simon Azuelos »"
