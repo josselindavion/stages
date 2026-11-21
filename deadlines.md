@@ -28,7 +28,7 @@ Le script `scripts/status.py` lit ce fichier.
 - [ ] AVANT CHAQUE CANDIDATURE — Vérifier le CV : ne garder dans « Formation complémentaire » que ce qui est fait ou en cours (background checks, cf. appel Alifano) ; en particulier projet 2 (marqué fini) et projet 3 (marqué en cours) : les remettre à leur état réel
 - [ ] 2026-11-23 — (optionnel) G-Research Quant Research Internship, été 2027 à Londres, date limite (F27)
 - [ ] 2026-11-25 — Jump Trading Campus QR M1/M2 Paris (F24) : l'annonce de l'an dernier a été retirée le 10/11, faire vite
-- [ ] 2026-11-30 — Maven Quant Trader 6 mois Londres, début juillet 2027, si le lien Greenhouse marche encore (F33)
+- [ ] 2026-11-30 — Maven : Register Your Interest (offre 6 mois fermée le 21/11 ; viser janvier 2028) (F33)
 - [ ] 2026-12-07 — Squarepoint Intern QR Paris (F21, une seule candidature ; CV anglais) ; Cubist QR intern Paris (F23, pari) ; Murex (F45)
 - [ ] 2026-12-15 — (optionnel) Stages d'été 2027 : Jane Street, Citadel, SIG (F22, F31, F32)
 - [ ] 2027-01-10 — Rothschild & Co AM, session de juillet 2027 (F46)
