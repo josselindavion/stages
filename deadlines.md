@@ -23,7 +23,7 @@ Le script `scripts/status.py` lit ce fichier.
 - [ ] 2026-12-06 — Annuaire MPA : vague 2 (fonds quant)
 - [ ] 2026-11-16 — SMS de remerciement à Enzo Alifano
 - [ ] 2026-11-23 — LeetCode commencé (liste « Top Interview 150 », Python) — demander une place dans le programme quant-ml
-- [ ] AVANT CHAQUE CANDIDATURE — Vérifier le CV : ne garder dans « Formation complémentaire » que ce qui est fait ou en cours (background checks, cf. appel Alifano)
+- [ ] AVANT CHAQUE CANDIDATURE — Vérifier le CV : ne garder dans « Formation complémentaire » que ce qui est fait ou en cours (background checks, cf. appel Alifano) ; en particulier projet 2 (marqué fini) et projet 3 (marqué en cours) : les remettre à leur état réel
 - [ ] 2026-11-23 — (optionnel) G-Research Quant Research Internship, été 2027 à Londres, date limite (F27)
 - [ ] 2026-11-25 — Jump Trading Campus QR M1/M2 Paris (F24) : l'annonce de l'an dernier a été retirée le 10/11, faire vite
 - [ ] 2026-11-30 — Maven Quant Trader 6 mois Londres, début juillet 2027, si le lien Greenhouse marche encore (F33)
