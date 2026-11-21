@@ -10,7 +10,7 @@ Le script `scripts/status.py` lit ce fichier.
 
 ## Finance (priorité 1) — voir `calendrier_finance.md`
 
-- [ ] TOUS LES 2 JOURS — Remplir `veille_offres.md` puis faire le point avec Claude
+- [ ] TOUS LES 2 JOURS — Remplir `veille_offres.csv` puis faire le point avec Claude
 
 - [x] 2026-11-18 — Appel Hadrien Do Cao (Euronext, recherche quant)
 - [ ] 2026-11-25 — Euronext : écrire au responsable Quant Research dès réception de son adresse (Hadrien) (F44)

@@ -41,7 +41,7 @@ scripts/status.py  vue rapide : pipeline + deadlines proches
 
 ## Conventions
 
-- **Statuts** (`candidatures.csv`, `veille_offres.md` (vérification des sites carrière, à remplir), colonne `statut`) :
+- **Statuts** (`candidatures.csv`, `veille_offres.csv` (vérification des sites carrière, à remplir), colonne `statut`) :
   `cible` → `a_envoyer` → `envoyee` → `test` → `entretiens` → `offre` | `refus` | `abandon`
 - **Dates** au format `AAAA-MM-JJ`. Laisser vide si inconnue.
 - `nationalite` : exigence connue ou supposée (`FR`, `UE`, `aucune`, `?`). En défense, à vérifier pour chaque offre.
