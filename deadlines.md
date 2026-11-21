@@ -21,15 +21,14 @@ Le script `scripts/status.py` lit ce fichier.
 - [ ] 2026-11-21 — Appel Alexandre Malige (Amundi Intermédiation), samedi 9h30-10h
 - [ ] 2026-11-22 — Relancer Audren Nison (Alpiq) s'il n'a pas répondu
 - [ ] 2026-11-22 — Annuaire MPA : vague 1 (banques) faite, contacts notés dans `annuaire_mpa.md`
-- [ ] 2026-11-30 — Candidatures envoyées (ouvertes, au fil de l'eau, CV relu avant) : Goldman Sachs Paris S&T + Strats (F07), Morgan Stanley S&T off-cycle Paris pour juillet 2027 (F08), Barclays STS off-cycle Paris (F10, UNE seule candidature par an), QRT Quantitative Research Paris (F19)
+- [ ] 2026-11-28 — VAGUE 1 (offres qui peuvent fermer ou se remplir) : Jump Campus QR M1/M2 Paris (F24), Goldman Sachs Paris S&T + Strats (F07), Morgan Stanley S&T off-cycle Paris (F08). CV remis à son état réel avant
+- [ ] 2026-12-07 — VAGUE 2 (un seul essai, offres qui restent ouvertes) : Barclays STS Paris (F10), Squarepoint (F21), QRT après l'appel avec Olivier Fondeur (F19), Murex (F45), Cubist (F23), Crelan (F49), Euronext dès l'adresse reçue (F44)
 - [ ] 2026-12-06 — Annuaire MPA : vague 2 (fonds quant)
 - [ ] 2026-11-16 — SMS de remerciement à Enzo Alifano
 - [ ] 2026-11-23 — LeetCode commencé (liste « Top Interview 150 », Python) — demander une place dans le programme quant-ml
 - [ ] AVANT CHAQUE CANDIDATURE — Vérifier le CV : ne garder dans « Formation complémentaire » que ce qui est fait ou en cours (background checks, cf. appel Alifano) ; en particulier projet 2 (marqué fini) et projet 3 (marqué en cours) : les remettre à leur état réel
 - [ ] 2026-11-23 — (optionnel) G-Research Quant Research Internship, été 2027 à Londres, date limite (F27)
-- [ ] 2026-11-25 — Jump Trading Campus QR M1/M2 Paris (F24) : l'annonce de l'an dernier a été retirée le 10/11, faire vite
 - [ ] 2026-11-30 — Maven : Register Your Interest (offre 6 mois fermée le 21/11 ; viser janvier 2028) (F33)
-- [ ] 2026-12-07 — Squarepoint Intern QR Paris (F21, une seule candidature ; CV anglais) ; Cubist QR intern Paris (F23, pari) ; Murex (F45)
 - [ ] 2026-12-15 — (optionnel) Stages d'été 2027 : Jane Street, Citadel, SIG (F22, F31, F32)
 - [ ] 2027-01-10 — Rothschild & Co AM, session de juillet 2027 (F46)
 - [ ] 2027-01-15 — Vattenfall : stages de l'été 2027 (F15)
